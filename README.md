@@ -1,10 +1,9 @@
+  <h1 align=center>Awesome DevOps</h1>
+  <p align=center>Useful resources for DevOps</p>
+
+
 <p align=center>
-  <h1>Awesome DevOps</h1>
-  <p>Useful resources for DevOps</p>
-
-
-<img src="https://github.com/sindresorhus/awesome/raw/master/media/logo.png" width=400 alt="Awesome Logo"/>
-
+  <img src="https://github.com/sindresorhus/awesome/raw/master/media/logo.png" width=400 alt="Awesome Logo"/>
 </p>
 
 ## Index
