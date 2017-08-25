@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/sindresorhus/awesome/raw/master/media/logo.png" class="awesome-logo"/>
+<img src="https://github.com/sindresorhus/awesome/raw/master/media/logo.png" width=400 alt="Awesome Logo" style="display: block; margin-left: auto; margin-right: auto;"/>
 
 ## Index
 
@@ -16,15 +16,3 @@ WIP
 ### nginx
 #### CSP
 [Quick Reference Guide](https://content-security-policy.com/)
-
-
-
-
-<style>
-.awesome-logo{
-  display: block;
-  height: 200px;
-  margin-left:auto;
-  margin-right: auto;
-}
-</style>
